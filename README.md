@@ -1,5 +1,5 @@
 # **Estudiante**
-## Proyecto Estudiante realizado con Spring Boot + Hibernate
+## Proyecto Estudiante realizado con Spring Boot, Spring Security + Hibernate
 
 ## API que realiza las siguientes acciones: 
 
